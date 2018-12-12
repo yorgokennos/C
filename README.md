@@ -1,2 +1,2 @@
-# Learning-C-
-Collection of problems and examples during my endeavor to learn C++
+# Learning-C
+A list of personal and class programs in my Computing I course (Into to C)
